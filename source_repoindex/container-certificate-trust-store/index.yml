@@ -1,0 +1,5 @@
+---
+1.0.0_RELEASE: https://java-buildpack.cloudfoundry.org/container-certificate-trust-store/container-certificate-trust-store-1.0.0_RELEASE.jar
+1.1.0_RELEASE: https://java-buildpack.cloudfoundry.org/container-certificate-trust-store/container-certificate-trust-store-1.1.0_RELEASE.jar
+2.0.0_RELEASE: https://java-buildpack.cloudfoundry.org/container-certificate-trust-store/container-certificate-trust-store-2.0.0_RELEASE.jar
+2.1.0_RELEASE: https://java-buildpack.cloudfoundry.org/container-certificate-trust-store/container-certificate-trust-store-2.1.0_RELEASE.jar

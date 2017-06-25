@@ -1,0 +1,4 @@
+---
+10.0.0_Final: https://java-buildpack.cloudfoundry.org/wildfly/wildfly-10.0.0_Final.tar.gz
+10.1.0_Final: https://java-buildpack.cloudfoundry.org/wildfly/wildfly-10.1.0_Final.tar.gz
+11.0.0_Alpha1: https://java-buildpack.cloudfoundry.org/wildfly/wildfly-11.0.0_Alpha1.tar.gz
