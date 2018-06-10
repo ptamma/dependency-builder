@@ -41,4 +41,3 @@ tomcat-logging-support : source_repoindex/tomcat-logging-support/index.yml
 tomee : source_repoindex/tomee/index.yml
 tomee-resource-configuration : source_repoindex/tomee-resource-configuration/index.yml
 wildfly : source_repoindex/wildfly/index.yml
-your-kit/trusty/x86_64 : source_repoindex/your-kit/trusty/x86_64/index.yml
